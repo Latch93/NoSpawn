@@ -1,0 +1,4 @@
+name: NoSpawn
+version: 1.0
+main: NoSpawn.NoSpawn
+api-version: 1.19

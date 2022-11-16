@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.latch</groupId>
-    <artifactId>NoSpawn</artifactId>
-    <version>1.0</version>
+    <artifactId>LatchInvDrop</artifactId>
+    <version>1.1</version>
     <repositories>
     <!-- This adds the Spigot Maven repository to the build -->
         <repository>

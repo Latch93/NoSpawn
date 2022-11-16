@@ -1,3 +1,5 @@
-NoSpawn\Api\Api.class
-NoSpawn\NoSpawnConfig.class
-NoSpawn\NoSpawn.class
+LatchInvDrop\LatchInvDropPlayerConfig.class
+LatchInvDrop\Api\Api.class
+LatchInvDrop\Constants.class
+LatchInvDrop\LatchInvDropConfig.class
+LatchInvDrop\LatchInvDrop.class
